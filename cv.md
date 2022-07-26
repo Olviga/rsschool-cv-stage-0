@@ -50,8 +50,8 @@ systems proficiency in WordPress. Using Search Engine Optimisation (SEO) to impr
 
 ## Projects ##
 ---
-[Pet-Project](https://olgagolo.ru/)
-[GitHub Account](https://github.com/Olviga/)
+* [Pet-Project](https://olgagolo.ru/)
+* [GitHub Account](https://github.com/Olviga/)
 
 ## Career Summary ##
 ---
