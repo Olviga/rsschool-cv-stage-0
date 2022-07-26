@@ -59,7 +59,7 @@ April 2012 - until now Tax Adviser
 April 1994 - April 2012 Accountant/Chief Accountant
 
 
-## Educatio n##
+## Education ##
 ---
 * Front-End Developer - The Rolling Scopes School - 2023
 * Python - Courses online - 2022
