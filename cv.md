@@ -1,4 +1,4 @@
-#Olga V. Goloshchapova | Front-End Developer#
+# Olga V. Goloshchapova | Front-End Developer #
 
 ![Olga V. Goloshchapova](https://avatars.githubusercontent.com/u/109607645?v=4)
 *Location: Saint-Petersburg, Russia*
@@ -8,7 +8,7 @@
 *Discord rs-school: Olga Goloshchapova (@olviga)*
 
 
-##Professional Profile##
+## Professional Profile ##
 ---
 Versatile and detail-orientated Front-End Developer. Web development experience using Python, XML, JavaScript. Adept at working with React to successfuly execute cross-platform UI interfaces. Committed to creating high presentation UI with exceptional handling
 to enhance the user experience. Background in copywriting with, visual multimedia and CMS
