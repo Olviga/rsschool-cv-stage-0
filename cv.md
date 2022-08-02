@@ -1,11 +1,11 @@
 # Olga V. Goloshchapova | Front-End Developer #
 
 ![Olga V. Goloshchapova](https://avatars.githubusercontent.com/u/109607645?v=4)
-*Location: Saint-Petersburg, Russia*
-*possibility of relocation to Poland (permanent residence card)*
-*Tel.: +79117663373*
-*Email: goloschapova1@gmail.com*
-*Discord rs-school: Olga Goloshchapova (@olviga)*
+
+* Location: Saint-Petersburg, Russia. Possibility of relocation to Poland (permanent residence card)
+* Tel.: +79117663373
+* Email: goloschapova1@gmail.com
+* Discord rs-school: Olga Goloshchapova (@olviga)
 
 
 ## Professional Profile ##
