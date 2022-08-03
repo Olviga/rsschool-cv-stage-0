@@ -1,6 +1,7 @@
 # Olga V. Goloshchapova | Front-End Developer #
 
-![Olga V. Goloshchapova](https://avatars.githubusercontent.com/u/109607645?v=4)
+
+<img src="https://avatars.githubusercontent.com/u/109607645?v=4" alt="Olga V. Goloshchapova" width="200"/>
 
 * Location: Saint-Petersburg, Russia. Possibility of relocation to Poland (permanent residence card)
 * Tel.: +79117663373
