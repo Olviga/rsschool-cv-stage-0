@@ -66,7 +66,7 @@ April 1994 - April 2012 Accountant/Chief Accountant
 * Python - Courses online - 2022
 * Math teacher - Volgograd Humanitarian Academy of professional training of specialists in the social sphere - 2017
 * Tax consulting - Saint Petrsburg State University - 2008
-* **High Scool Dyploma** - Economist - Accounting economic analysis and audit - Saint * Petrsburg State University of Economiks - 2006
+* **High Scool Dyploma** - Economist - Accounting, economic analysis and audit - Saint-Petersburg State University of Economiks - 2006
 
 ## References available on request ##
 
